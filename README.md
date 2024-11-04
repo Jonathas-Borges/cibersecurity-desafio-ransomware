@@ -33,4 +33,4 @@ Descriptografando:
 
 **Tecnologias Utilizadas:**
 - Python
-- PyAES (ou qualquer outra biblioteca que você esteja usando)
+- PyAES
